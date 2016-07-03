@@ -1,0 +1,75 @@
+Description of variables in FinalDataSet.txt:
+
+Variable Name			Datatype		Description
+=======================		====================	===============================================
+Subject				Numeric			Unique subject identifier; valid values are 1-30
+Activity			Character		Activity description; valid values are "WALKING
+", "WALKING_UPSTAIRS
+", "WALKING_DOWNSTAIRS", "SITTING", "STANDING
+", "LAYING"
+
+tBodyAcc-mean()-X		Numeric			Average of values for the measurement; valid values range from 1 to -1
+tBodyAcc-mean()-Y		Numeric			Average of values for the measurement; valid values range from 1 to -1
+tBodyAcc-mean()-Z		Numeric			Average of values for the measurement; valid values range from 1 to -1
+tBodyAcc-std()-X		Numeric			Average of values for the measurement; valid values range from 1 to -1
+tBodyAcc-std()-Y		Numeric			Average of values for the measurement; valid values range from 1 to -1
+tBodyAcc-std()-Z		Numeric			Average of values for the measurement; valid values range from 1 to -1
+tGravityAcc-mean()-X		Numeric			Average of values for the measurement; valid values range from 1 to -1
+tGravityAcc-mean()-Y		Numeric			Average of values for the measurement; valid values range from 1 to -1
+tGravityAcc-mean()-Z		Numeric			Average of values for the measurement; valid values range from 1 to -1
+tGravityAcc-std()-X		Numeric			Average of values for the measurement; valid values range from 1 to -1
+tGravityAcc-std()-Y		Numeric			Average of values for the measurement; valid values range from 1 to -1
+tGravityAcc-std()-Z		Numeric			Average of values for the measurement; valid values range from 1 to -1
+tBodyAccJerk-mean()-X		Numeric			Average of values for the measurement; valid values range from 1 to -1
+tBodyAccJerk-mean()-Y		Numeric			Average of values for the measurement; valid values range from 1 to -1
+tBodyAccJerk-mean()-Z		Numeric			Average of values for the measurement; valid values range from 1 to -1
+tBodyAccJerk-std()-X		Numeric			Average of values for the measurement; valid values range from 1 to -1
+tBodyAccJerk-std()-Y		Numeric			Average of values for the measurement; valid values range from 1 to -1
+tBodyAccJerk-std()-Z		Numeric			Average of values for the measurement; valid values range from 1 to -1
+tBodyGyro-mean()-X		Numeric			Average of values for the measurement; valid values range from 1 to -1
+tBodyGyro-mean()-Y		Numeric			Average of values for the measurement; valid values range from 1 to -1
+tBodyGyro-mean()-Z		Numeric			Average of values for the measurement; valid values range from 1 to -1
+tBodyGyro-std()-X		Numeric			Average of values for the measurement; valid values range from 1 to -1
+tBodyGyro-std()-Y		Numeric			Average of values for the measurement; valid values range from 1 to -1
+tBodyGyro-std()-Z		Numeric			Average of values for the measurement; valid values range from 1 to -1
+tBodyGyroJerk-mean()-X		Numeric			Average of values for the measurement; valid values range from 1 to -1
+tBodyGyroJerk-mean()-Y		Numeric			Average of values for the measurement; valid values range from 1 to -1
+tBodyGyroJerk-mean()-Z		Numeric			Average of values for the measurement; valid values range from 1 to -1
+tBodyGyroJerk-std()-X		Numeric			Average of values for the measurement; valid values range from 1 to -1
+tBodyGyroJerk-std()-Y		Numeric			Average of values for the measurement; valid values range from 1 to -1
+tBodyGyroJerk-std()-Z		Numeric			Average of values for the measurement; valid values range from 1 to -1
+tBodyAccMag-mean()		Numeric			Average of values for the measurement; valid values range from 1 to -1
+tBodyAccMag-std()		Numeric			Average of values for the measurement; valid values range from 1 to -1
+tGravityAccMag-mean()		Numeric			Average of values for the measurement; valid values range from 1 to -1
+tGravityAccMag-std()		Numeric			Average of values for the measurement; valid values range from 1 to -1
+tBodyAccJerkMag-mean()		Numeric			Average of values for the measurement; valid values range from 1 to -1
+tBodyAccJerkMag-std()		Numeric			Average of values for the measurement; valid values range from 1 to -1
+tBodyGyroMag-mean()		Numeric			Average of values for the measurement; valid values range from 1 to -1
+tBodyGyroMag-std()		Numeric			Average of values for the measurement; valid values range from 1 to -1
+tBodyGyroJerkMag-mean()		Numeric			Average of values for the measurement; valid values range from 1 to -1
+tBodyGyroJerkMag-std()		Numeric			Average of values for the measurement; valid values range from 1 to -1
+fBodyAcc-mean()-X		Numeric			Average of values for the measurement; valid values range from 1 to -1
+fBodyAcc-mean()-Y		Numeric			Average of values for the measurement; valid values range from 1 to -1
+fBodyAcc-mean()-Z		Numeric			Average of values for the measurement; valid values range from 1 to -1
+fBodyAcc-std()-X		Numeric			Average of values for the measurement; valid values range from 1 to -1
+fBodyAcc-std()-Y		Numeric			Average of values for the measurement; valid values range from 1 to -1
+fBodyAcc-std()-Z		Numeric			Average of values for the measurement; valid values range from 1 to -1
+fBodyAccJerk-mean()-X		Numeric			Average of values for the measurement; valid values range from 1 to -1
+fBodyAccJerk-mean()-Y		Numeric			Average of values for the measurement; valid values range from 1 to -1
+fBodyAccJerk-mean()-Z		Numeric			Average of values for the measurement; valid values range from 1 to -1
+fBodyAccJerk-std()-X		Numeric			Average of values for the measurement; valid values range from 1 to -1
+fBodyAccJerk-std()-Y		Numeric			Average of values for the measurement; valid values range from 1 to -1
+fBodyAccJerk-std()-Z		Numeric			Average of values for the measurement; valid values range from 1 to -1
+fBodyGyro-mean()-X		Numeric			Average of values for the measurement; valid values range from 1 to -1
+fBodyGyro-mean()-Y		Numeric			Average of values for the measurement; valid values range from 1 to -1
+fBodyGyro-mean()-Z		Numeric			Average of values for the measurement; valid values range from 1 to -1
+fBodyGyro-std()-X		Numeric			Average of values for the measurement; valid values range from 1 to -1
+fBodyGyro-std()-Y		Numeric			Average of values for the measurement; valid values range from 1 to -1
+fBodyGyro-std()-Z		Numeric			Average of values for the measurement; valid values range from 1 to -1
+fBodyAccMag-mean()		Numeric			Average of values for the measurement; valid values range from 1 to -1
+fBodyAccMag-std()		Numeric			Average of values for the measurement; valid values range from 1 to -1
+fBodyBodyAccJerkMag-mean()	Numeric			Average of values for the measurement; valid values range from 1 to -1
+fBodyBodyAccJerkMag-std()	Numeric			Average of values for the measurement; valid values range from 1 to -1
+fBodyBodyGyroMag-mean()		Numeric			Average of values for the measurement; valid values range from 1 to -1
+fBodyBodyGyroMag-std()		Numeric			Average of values for the measurement; valid values range from 1 to -1
+fBodyBodyGyroJerkMag-mean()	Numeric			Average of values for the measurement; valid values range from 1 to -1
