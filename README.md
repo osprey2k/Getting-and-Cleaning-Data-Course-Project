@@ -4,7 +4,7 @@ Date:	7/2/2016
 Purpose:
 	Description of the Coursera "Getting and Cleaning Data" Course Project
 
-	The files listed in the RawData.zip folder were downloaded from this site:
+	The files listed in the test_data.zip, training_data.zip, and other_data.zip folders were downloaded from this site:
 		https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
 
 	Included in the above downloaded file are data collected for an experiment involving 30 volunteers using accelerometers from the Samsung Galaxy S II
